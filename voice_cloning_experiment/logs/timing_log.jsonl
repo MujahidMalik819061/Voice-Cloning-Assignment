@@ -1,0 +1,6 @@
+{"timestamp": 1756399748.879567, "stage": "train", "duration_s": 0.0008695125579833984}
+{"timestamp": 1756399769.769299, "stage": "inference", "duration_s": 0.00012803077697753906}
+{"timestamp": 1756401073.2006035, "stage": "train", "duration_s": 0.000423431396484375}
+{"timestamp": 1756401073.619536, "stage": "inference", "duration_s": 0.0022084712982177734}
+{"timestamp": 1756405306.3423367, "stage": "train", "duration_s": 0.00017642974853515625}
+{"timestamp": 1756405306.9333446, "stage": "inference", "duration_s": 0.0009620189666748047}
